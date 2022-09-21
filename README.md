@@ -1,5 +1,5 @@
 
-## Stats Project
+## Sort Project
 
 A mini **Typescript** project practicing:
 - Configuring the **TS Compiler**
